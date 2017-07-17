@@ -6,9 +6,9 @@ const PiCamera = require('./index');
 const myCamera = new PiCamera({
   mode: 'video',
   output: process.argv[2],
-  width: config.get('1920'),
-  height: config.get('1080'),
-  timeout: config.get('5000'),
+  width: '1920',
+  height: '1080',
+  timeout: '5000',
   nopreview: true,
 });
 
