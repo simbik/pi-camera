@@ -5,7 +5,8 @@
   "quality",
   "raw",
   "latest",
-  "timeout",
+	"rotation",
+	"timeout",
   "thumb",
   "demo",
   "encoding",
@@ -14,5 +15,10 @@
   "burst",
   "framestart",
   "restart",
-  "framerate"
+  "framerate",
+  "brightness",
+  "contrast",
+  "sharpness",
+  "saturation",
+  "ISO"
 ]
