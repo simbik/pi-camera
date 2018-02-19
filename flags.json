@@ -11,6 +11,6 @@
 	"vflip",
 	"timestamp",
 	"datetime",
-	"fullscreen",
-	"nopreview"
+	"rotation",
+	"timeout",
 ]
